@@ -1,9 +1,9 @@
 editables:
   project1/local:
     path: ../project1/conan
-  project2/3a454f7ea4@adnn/develop:
+  project2/de8263e758@adnn/develop:
     path: ../project2/conan
-  project3/b414e7a6e9@adnn/develop:
+  project3/d9b956d78c@adnn/develop:
     path: ../project3/conan
 layout: layout
 root: project1/local
